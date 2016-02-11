@@ -143,6 +143,14 @@ nav {
   text-align: center;
 }
 
+#logo {
+  width: 8.9rem;
+  height: 5rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .container {
   max-width: 60rem;
   padding-left: 1rem;
